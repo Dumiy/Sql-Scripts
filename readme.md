@@ -1,1 +1,1 @@
-#Repo for sql scripts
+# Repo for sql scripts
